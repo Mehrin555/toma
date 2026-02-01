@@ -6,7 +6,8 @@ const About = () => {
       <div className="conatiner w-[1144px] mx-auto">
         <div className="about_main flex gap-20 items-center">
           <div className="about_left">
-            <img src="./images/Image.jpg" alt="image" />
+            {/* <img src="./images/Image.jpg" alt="image" /> */}
+            {/* <img src="./src/assets/image.jpeg" alt="" /> */}
           </div>
           <div className="about_right">
             <div>

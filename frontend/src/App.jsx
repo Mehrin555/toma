@@ -6,6 +6,7 @@ import Service from "./components/Service";
 import Resume from "./components/Resume";
 import Portfolio from "./components/Portfolio";
 import Testimonial from "./components/Testimonial";
+import Skills from './components/Skills';
 
 const App = () => {
   return (
@@ -26,6 +27,10 @@ const App = () => {
 
       <section id="resume">
         <Resume />
+      </section>
+      <section id ="Skills">
+        <Skills/>
+        
       </section>
 
       <section id="portfolio">

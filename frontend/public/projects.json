@@ -1,0 +1,37 @@
+
+[
+
+   {
+        "id": 1,
+        "name": "Campus store management",
+        "image": "https://res.cloudinary.com/ddp92kdv5/image/upload/v1769446078/Screenshot_453_k7lurt.png",
+        "card_description": "This is a dynamic platform for hosting islamic quiz contests. As the full-stack developer, I regularly update the website with new features.",
+        "live_link": " https://github.com/Mehrin555/Java-Project-.git",
+        "description": "This is a dynamic platform for hosting islamic quiz contests. As the full-stack developer, I regularly update the website with new features."
+    },
+     {
+        "id": 2,
+        "name": "Calendar",
+        
+        "image": "https://res.cloudinary.com/ddp92kdv5/image/upload/v1768923741/127.0.0.1_5500_INDEX.HTML_1_vpncuv.png",
+        "card_description": "This is a dynamic platform for hosting islamic quiz contests. As the full-stack developer, I regularly update the website with new features.",
+        "live_link": "https://mehrin555.github.io/HTML-PROJECT-/",
+        "description": "This is a dynamic platform for hosting islamic quiz contests. As the full-stack developer, I regularly update the website with new features."
+    },
+    
+  
+
+     {
+        "id": 3,
+        "name": "portfolio",
+        "image": "https://res.cloudinary.com/ddp92kdv5/image/upload/v1769532749/Screenshot_2024-05-10_000428_k1i8vz.png",
+        "card_description": "This is a dynamic platform for hosting islamic quiz contests. As the full-stack developer, I regularly update the website with new features.",
+        "live_link": "https://github.com/Mehrin555/portfolio.git",
+        "description": "This is a dynamic platform for hosting islamic quiz contests. As the full-stack developer, I regularly update the website with new features."
+    }
+     
+    
+]
+
+
+
